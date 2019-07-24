@@ -1,5 +1,5 @@
 # Castle DictionaryAdapter - Customizing Adapter Keys
-
+asdf
 By default DictionaryAdapter will use very simple strategy when inserting/retrieving data to/from dictionary via adapter - property name becomes the key.
 
 So doing:
